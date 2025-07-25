@@ -19,7 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Janidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=janidudissanayaka&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
+![Janidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfJD&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
 
 ---
 
