@@ -1,4 +1,4 @@
-![Banner](https://github.com/WolfJD/WolfJD/raw/main/backgroundimage1.png)
+
 # 👋 Hey there! I'm Janidu Dissanayaka
 
 > 🧑‍💻 *Intern Software Engineer @ [Spera Labs](https://www.linkedin.com/in/janidudissanayaka/)*
